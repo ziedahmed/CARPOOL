@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/edu.esprit.bank.client/lib/jboss-client.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/edu.esprit.pi.ejb"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Tools/jboss-as-7.1.1.Final/modules/com/mysql/jdbc/main/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.as.classpath.core.ejb3.classpathContainer/JBoss 7.1 Runtime Server"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
